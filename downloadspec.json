@@ -1,0 +1,9 @@
+{
+    "files": [
+     {
+      "pattern": "maven-local/org/jfrog/test/multi3/2.20/multi3-2.20.war",
+      "target": "war/multi3-2.20.war",
+      "flat":"true"
+     }
+     ]
+}
