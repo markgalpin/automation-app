@@ -1,4 +1,4 @@
-FROM artifactory-dev.jfrogbeta.com/docker-local/docker-framework:latest
+FROM artifactory-dev.jfrogbeta.com/docker-release/docker-framework:latest
 
 MAINTAINER Mark Galpin markg@jfrog.com
 
